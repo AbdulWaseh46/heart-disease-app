@@ -1,0 +1,10 @@
+[
+  {
+    "name": "ABDUL WASEH",
+    "email": "awaseh649@gmail.com",
+    "passwordHash": "$2a$10$g1VXmXNZK8R92hYr/DYFo.LAL4xsI4q.c521eIBnKy8kNKut.Xd9S",
+    "twoFactorSecret": "IJKXQ4ZQNVGDCVRDI5YV4KLUJEYVM5LHLA7DIP25NFNFGN3FNVFA",
+    "twoFactorEnabled": true,
+    "createdAt": "2026-09-05T07:56:18.732Z"
+  }
+]
